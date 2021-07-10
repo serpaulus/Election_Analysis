@@ -11,7 +11,7 @@ This training project’s objective is to create a program for a Colorado Board 
 
 ## Resources 
 
-1. Election results data in the form of an electronic csv file titled [“election_results.csv”]( https://github.com/serpaulus/Election_Analysis/blob/main/Resources/election_results.csv)
+1. Election results data in the form of an electronic csv file titled [“election_results.csv”]( https://raw.githubusercontent.com/serpaulus/Election_Analysis/main/Resources/election_results.csv)
 
 2. Software: Python 3.7.6, Visual Studio 1.38.1
 

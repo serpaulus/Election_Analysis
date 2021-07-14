@@ -7,9 +7,9 @@ import os
 
 # Add a variable to load a file from a path.
 # Assign a variable to load a file from a path.
-file_to_load = os.path.join(r"c:/Users/sergi/Documents/1_UTBootcam/Module_3/Election_Analysis/Resources", "election_results.csv")
+file_to_load = os.path.join("Resources", "election_results.csv")
 # Assign a variable to save the file to a path.
-file_to_save = os.path.join(r"c:/Users/sergi/Documents/1_UTBootcam/Module_3/Election_Analysis/analysis", "election_analysis2.txt")
+file_to_save = os.path.join("analysis", "election_analysis2.txt")
 
 
 # Initialize a total vote counter.
